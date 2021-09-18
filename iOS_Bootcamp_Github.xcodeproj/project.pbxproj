@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A722261B26F5F8D600520DCC /* Task3.swift in Sources */ = {isa = PBXBuildFile; fileRef = A722261A26F5F8D600520DCC /* Task3.swift */; };
 		A7657E2E26F5E88700E9C8AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E2D26F5E88700E9C8AD /* AppDelegate.swift */; };
 		A7657E3026F5E88700E9C8AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E2F26F5E88700E9C8AD /* SceneDelegate.swift */; };
 		A7657E3226F5E88700E9C8AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E3126F5E88700E9C8AD /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A722261A26F5F8D600520DCC /* Task3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.swift; sourceTree = "<group>"; };
 		A7657E2A26F5E88700E9C8AD /* iOS_Bootcamp_Github.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_Bootcamp_Github.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7657E2D26F5E88700E9C8AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7657E2F26F5E88700E9C8AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A722261926F5F8CB00520DCC /* Task3 */ = {
+			isa = PBXGroup;
+			children = (
+				A722261A26F5F8D600520DCC /* Task3.swift */,
+			);
+			path = Task3;
+			sourceTree = "<group>";
+		};
 		A7657E2126F5E88700E9C8AD = {
 			isa = PBXGroup;
 			children = (
@@ -101,6 +111,7 @@
 		A7657E2C26F5E88700E9C8AD /* iOS_Bootcamp_Github */ = {
 			isa = PBXGroup;
 			children = (
+				A722261926F5F8CB00520DCC /* Task3 */,
 				A7657E2D26F5E88700E9C8AD /* AppDelegate.swift */,
 				A7657E2F26F5E88700E9C8AD /* SceneDelegate.swift */,
 				A7657E3126F5E88700E9C8AD /* ViewController.swift */,
@@ -262,6 +273,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A7657E3226F5E88700E9C8AD /* ViewController.swift in Sources */,
+				A722261B26F5F8D600520DCC /* Task3.swift in Sources */,
 				A7657E2E26F5E88700E9C8AD /* AppDelegate.swift in Sources */,
 				A7657E3826F5E88700E9C8AD /* iOS_Bootcamp_Github.xcdatamodeld in Sources */,
 				A7657E3026F5E88700E9C8AD /* SceneDelegate.swift in Sources */,
