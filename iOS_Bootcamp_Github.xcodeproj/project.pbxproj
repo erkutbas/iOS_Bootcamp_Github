@@ -18,6 +18,8 @@
 		A7657E5326F5E88800E9C8AD /* iOS_Bootcamp_GithubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E5226F5E88800E9C8AD /* iOS_Bootcamp_GithubUITests.swift */; };
 		A79370F226F5EF5300652553 /* Task2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79370F126F5EF5300652553 /* Task2.swift */; };
 		A79370F626F5EFDD00652553 /* SampleHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79370F526F5EFDD00652553 /* SampleHelper.swift */; };
+		A79370EF26F5EEB900652553 /* Task1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79370EE26F5EEB900652553 /* Task1.swift */; };
+		A79370F426F5EFAD00652553 /* SampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79370F326F5EFAD00652553 /* SampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +57,8 @@
 		A7657E5426F5E88800E9C8AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A79370F126F5EF5300652553 /* Task2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2.swift; sourceTree = "<group>"; };
 		A79370F526F5EFDD00652553 /* SampleHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleHelper.swift; sourceTree = "<group>"; };
+		A79370EE26F5EEB900652553 /* Task1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1.swift; sourceTree = "<group>"; };
+		A79370F326F5EFAD00652553 /* SampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				A79370F026F5EF3B00652553 /* Task2 */,
+				A79370ED26F5EEB200652553 /* Task1 */,
 				A7657E2D26F5E88700E9C8AD /* AppDelegate.swift */,
 				A7657E2F26F5E88700E9C8AD /* SceneDelegate.swift */,
 				A7657E3126F5E88700E9C8AD /* ViewController.swift */,
@@ -143,6 +148,15 @@
 				A79370F526F5EFDD00652553 /* SampleHelper.swift */,
 			);
 			path = Task2;
+      sourceTree = "<group>";
+		};
+		A79370ED26F5EEB200652553 /* Task1 */ = {
+			isa = PBXGroup;
+			children = (
+				A79370EE26F5EEB900652553 /* Task1.swift */,
+				A79370F326F5EFAD00652553 /* SampleView.swift */,
+			);
+			path = Task1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -281,6 +295,8 @@
 				A79370F626F5EFDD00652553 /* SampleHelper.swift in Sources */,
 				A7657E3826F5E88700E9C8AD /* iOS_Bootcamp_Github.xcdatamodeld in Sources */,
 				A7657E3026F5E88700E9C8AD /* SceneDelegate.swift in Sources */,
+				A79370F426F5EFAD00652553 /* SampleView.swift in Sources */,
+				A79370EF26F5EEB900652553 /* Task1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
