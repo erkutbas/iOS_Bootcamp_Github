@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A722262026F6011E00520DCC /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A722261F26F6011E00520DCC /* NetworkManager.swift */; };
+		A722262226F601D800520DCC /* LoadingStates.swift in Sources */ = {isa = PBXBuildFile; fileRef = A722262126F601D800520DCC /* LoadingStates.swift */; };
 		A7657E2E26F5E88700E9C8AD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E2D26F5E88700E9C8AD /* AppDelegate.swift */; };
 		A7657E3026F5E88700E9C8AD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E2F26F5E88700E9C8AD /* SceneDelegate.swift */; };
 		A7657E3226F5E88700E9C8AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E3126F5E88700E9C8AD /* ViewController.swift */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		A722261F26F6011E00520DCC /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		A722262126F601D800520DCC /* LoadingStates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingStates.swift; sourceTree = "<group>"; };
 		A7657E2A26F5E88700E9C8AD /* iOS_Bootcamp_Github.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS_Bootcamp_Github.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7657E2D26F5E88700E9C8AD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A7657E2F26F5E88700E9C8AD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -158,6 +160,7 @@
 			children = (
 				A79370F126F5EF5300652553 /* Task2.swift */,
 				A79370F526F5EFDD00652553 /* SampleHelper.swift */,
+				A722262126F601D800520DCC /* LoadingStates.swift */,
 			);
 			path = Task2;
 			sourceTree = "<group>";
@@ -295,6 +298,7 @@
 				A722262026F6011E00520DCC /* NetworkManager.swift in Sources */,
 				A79370F226F5EF5300652553 /* Task2.swift in Sources */,
 				A7657E3226F5E88700E9C8AD /* ViewController.swift in Sources */,
+				A722262226F601D800520DCC /* LoadingStates.swift in Sources */,
 				A7657E2E26F5E88700E9C8AD /* AppDelegate.swift in Sources */,
 				A79370F626F5EFDD00652553 /* SampleHelper.swift in Sources */,
 				A7657E3826F5E88700E9C8AD /* iOS_Bootcamp_Github.xcdatamodeld in Sources */,
