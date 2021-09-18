@@ -17,6 +17,7 @@
 		A7657E4826F5E88800E9C8AD /* iOS_Bootcamp_GithubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E4726F5E88800E9C8AD /* iOS_Bootcamp_GithubTests.swift */; };
 		A7657E5326F5E88800E9C8AD /* iOS_Bootcamp_GithubUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A7657E5226F5E88800E9C8AD /* iOS_Bootcamp_GithubUITests.swift */; };
 		A79370EF26F5EEB900652553 /* Task1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79370EE26F5EEB900652553 /* Task1.swift */; };
+		A79370F426F5EFAD00652553 /* SampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A79370F326F5EFAD00652553 /* SampleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A7657E5226F5E88800E9C8AD /* iOS_Bootcamp_GithubUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_Bootcamp_GithubUITests.swift; sourceTree = "<group>"; };
 		A7657E5426F5E88800E9C8AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A79370EE26F5EEB900652553 /* Task1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task1.swift; sourceTree = "<group>"; };
+		A79370F326F5EFAD00652553 /* SampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +140,7 @@
 			isa = PBXGroup;
 			children = (
 				A79370EE26F5EEB900652553 /* Task1.swift */,
+				A79370F326F5EFAD00652553 /* SampleView.swift */,
 			);
 			path = Task1;
 			sourceTree = "<group>";
@@ -276,6 +279,7 @@
 				A7657E2E26F5E88700E9C8AD /* AppDelegate.swift in Sources */,
 				A7657E3826F5E88700E9C8AD /* iOS_Bootcamp_Github.xcdatamodeld in Sources */,
 				A7657E3026F5E88700E9C8AD /* SceneDelegate.swift in Sources */,
+				A79370F426F5EFAD00652553 /* SampleView.swift in Sources */,
 				A79370EF26F5EEB900652553 /* Task1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
