@@ -1,5 +1,5 @@
 //
-//  SampleHelper.swift
+//  NetworkManager.swift
 //  iOS_Bootcamp_Github
 //
 //  Created by Erkut Bas on 18.09.2021.
@@ -7,9 +7,9 @@
 
 import Foundation
 
-class SampleHelper {
+class NetworkManager {
     
-    public static let shared = SampleHelper()
+    public static let shared = NetworkManager()
     
     private init() {
         
