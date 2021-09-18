@@ -9,4 +9,10 @@ import Foundation
 
 class SampleHelper {
     
+    public static let shared = SampleHelper()
+    
+    private init() {
+        
+    }
+    
 }
